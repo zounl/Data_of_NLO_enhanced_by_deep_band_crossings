@@ -28,10 +28,12 @@ The data and analysis scripts that support the findings of this study are openly
 If you use this data or code, please cite the paper:
 
 ```bibtex
-@article{Nianlong2025,
-  author  = {Zou, Nianlong and Li, He and Ye, Meng and Chen, Haowei and Sun, Minghui and Guo, Ruiping and Liu, Yizhou and Gu, Bing-Lin and Duan, Wenhui and Xu, Yong and Wang, Chong},
-  title   = {Nonlinear optical effects enhanced by deep band crossings},
-  journal = {Phys. Rev. Lett.},
-  year    = {2025},
-  doi     = {10.1103/PhysRevLett.xxxxxxx} 
+@article{Zou2025Nov,
+	author = {Zou, Nianlong and Li, He and Ye, Meng and Chen, Haowei and Sun, Minghui and Guo, Ruiping and Liu, Yizhou and Gu, Bing-Lin and Duan, Wenhui and Xu, Yong and Wang, Chong},
+	title = {{Nonlinear optical effects enhanced by deep band crossings}},
+	journal = {Phys. Rev. Lett.},
+	year = {2025},
+	month = nov,
+	publisher = {American Physical Society},
+	doi = {10.1103/sqwy-xhdf}
 }
