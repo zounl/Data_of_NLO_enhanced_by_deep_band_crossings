@@ -6,10 +6,20 @@ This repository contains the data and analysis scripts associated with the paper
 > Nianlong Zou *et al.*, "Nonlinear optical effects enhanced by deep band crossings", *Phys. Rev. Lett.*, 2025.
 
 ## Repository structure
-- `data/` — raw and processed datasets
-- `scripts/` — analysis and plotting scripts
-- `notebooks/` — Jupyter notebooks for reproduction
-- `figures/` — figures used in the manuscript
+```
+Fig1/                        # data and scripts for the Fig.1
+├── Fig1(b)/                        
+├── Fig1(c)/  
+├── Fig1(d)/
+Fig2/                        # data and scripts for the Fig.2
+├── Fig2(a)/  
+├── Fig2(b)/ 
+├── Fig2(c)/                 
+├── Fig2(d)/  
+├── Fig2(e)/                 
+├── Fig2(f)/  
+Fig3/                        # data and scripts for the Fig.3
+```
 
 ## Data availability
 The data and analysis scripts that support the findings of this study are openly available in the GitHub repository.

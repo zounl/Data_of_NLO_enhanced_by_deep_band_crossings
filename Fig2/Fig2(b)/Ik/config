@@ -1,0 +1,18 @@
+{
+    "calc_job": "I_ksurface",
+    "alpha": 1,
+    "beta": 1,
+    "gamma": 2,
+    "nms": [
+        [
+            12,
+            10
+        ]
+    ],
+    "kden": 100,
+    "epsilon": 0.01,
+    "interface": "openmx39",
+    "is_symm": true,
+    "is_TR": false,
+    "is_shared": true
+}
